@@ -1,4 +1,4 @@
-# Malla Reddy Boys Hostel Management System
+# Hostel Management System
 
 A clean full-stack hostel operations application built with React, FastAPI, SQLAlchemy and MySQL. It starts with permanent infrastructure only: **431 rooms numbered 0–430 and 1,724 vacant beds**. No sample students, staff, attendance, menus or notices are inserted.
 
